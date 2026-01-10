@@ -2,4 +2,4 @@ Creating readme
 Completed
 
 Checking Poll SCM
-Checking the triggering for webhook
+Checking the triggering for webhook trigger
